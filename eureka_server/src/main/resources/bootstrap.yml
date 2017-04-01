@@ -1,0 +1,5 @@
+####spring cloud使用这个文件
+spring:
+  application:
+    name: eureka_server
+
